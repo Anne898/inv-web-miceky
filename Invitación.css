@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/11-17.png");
+  background-image: url("images/1.gif");
   background-position: 50% 50%;
 }
 
@@ -38,7 +38,7 @@
     margin-bottom: 0;
   }
 } .u-section-2 {
-  background-image: url("images/21.png");
+  background-image: url("images/2.gif");
   background-position: 50% 50%;
 }
 
@@ -212,11 +212,11 @@
   }
 
   .u-section-2 .u-countdown-1 {
-    margin-top: 508px;
+    margin-top: 310px;
     padding: 10px 20px 10px 10px;
   }
 } .u-section-3 {
-  background-image: url("images/3.png");
+  background-image: url("images/3.gif");
   background-position: 50% 50%;
 }
 
@@ -235,11 +235,11 @@
   .u-section-3 .u-btn-1 {
     font-size: 0.875rem;
     font-weight: 700;
-    margin: 627px auto 60px;
+    margin: 477px auto 60px;
     padding: 7px 26px 8px 25px;
   }
 } .u-section-4 {
-  background-image: url("images/41.png");
+  background-image: url("images/4.gif");
   background-position: 50% 50%;
 }
 
@@ -261,7 +261,7 @@
     font-size: 0.875rem;
     font-weight: 700;
     text-transform: uppercase;
-    margin-top: 286px;
+    margin-top: 301px;
     padding: 7px 26px 8px 25px;
   }
 }
